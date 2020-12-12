@@ -2,8 +2,7 @@
 
 ENSC 424 Project
 
-Source Code:
-
+Source Code:  
 mask_training_model.py  
 webcam_mask_detector.py
 
