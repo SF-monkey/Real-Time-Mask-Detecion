@@ -19,5 +19,6 @@ https://github.com/AIZOOTech/FaceMaskDetection
 https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector  
 https://github.com/gopinath-balu/computer_vision/tree/master/CAFFE_DNN  
 https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector  
+https://www.tensorflow.org/tutorials/images/transfer_learning  
 https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/  
 https://www.pyimagesearch.com/2019/07/22/keras-learning-rate-schedules-and-decay/  
