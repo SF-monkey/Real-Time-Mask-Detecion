@@ -1,4 +1,4 @@
-# Face-Mask-Detector
+# Real-Time-Mask-Detection
 
 ENSC 424 Project
 
